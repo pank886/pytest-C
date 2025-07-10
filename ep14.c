@@ -5,7 +5,6 @@
 	> Created Time: Tue 08 Jul 2025 10:23:25 PM CST
  ************************************************************************/
 #include <stdio.h>
-// test line added for git commit
 #define MAX_N 10000000
 #define MAX_M 100000
 
